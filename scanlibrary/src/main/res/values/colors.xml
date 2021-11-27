@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor">#00574B</color>
+    <color name="colorPrimaryLight">#FFFCE4EC</color>
+    <color name="colorPrimary">#228c22</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#228c22</color>
+    <color name="tab_indicator_gray">#c0c0c0</color>
+
+    <color name="blue">#ff59a9ff</color>
+    <color name="orange">#ffff900d</color>
+
+    <color name="polygonViewCircleStrokeColor">#ff59a9ff</color>
+    <color name="polygonViewCircleBackground">#90e5f8ff</color>
+</resources>
